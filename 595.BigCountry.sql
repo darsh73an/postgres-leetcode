@@ -3,5 +3,3 @@ SELECT name,area,population
 FROM World
 WHERE area >= 3000000 OR population >= 25000000;
 
---0(n)
---0(1)
